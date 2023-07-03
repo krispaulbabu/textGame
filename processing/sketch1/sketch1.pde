@@ -11,8 +11,8 @@ void setup() {
 }
 
 int i=0;
-int textPositionX=30;
-int textPositionY=50;
+int textPositionX=180;
+int textPositionY=240;
 int index=0;
 String line="";
 
